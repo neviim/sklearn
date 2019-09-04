@@ -2,11 +2,11 @@
 
 	Testando algoritimos
 
-# https://techwithtim.net/tutorials/machine-learning-python/k-nearest-neighbors-1
-# https://scikit-learn.org/stable/modules/clustering.html#hierarchical-clustering
+  https://techwithtim.net/tutorials/machine-learning-python/k-nearest-neighbors-1
+  https://scikit-learn.org/stable/modules/clustering.html#hierarchical-clustering
 
 # Exemplos
-# https://scikit-learn.org/stable/auto_examples/index.html
+  https://scikit-learn.org/stable/auto_examples/index.html
 
   ::: Install instancia ENV Conda tensorflow
 
